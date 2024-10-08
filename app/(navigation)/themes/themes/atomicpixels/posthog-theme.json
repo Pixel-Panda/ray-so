@@ -1,0 +1,20 @@
+{  "author": "Drew Andersen",
+  "authorUsername": "atomicpixels",
+  "version": "1",
+  "name": "posthog-theme",
+  "appearance": "light",
+  "colors": {
+    "background": "#DBE0CF",
+    "backgroundSecondary": "#DBE0CF",
+    "text": "#312A1F",
+    "selection": "#EC910A",
+    "loader": "#EC8E05",
+    "red": "#EC9D29",
+    "orange": "#F5600A",
+    "yellow": "#E0A200",
+    "green": "#07BA65",
+    "blue": "#0A7FF5",
+    "purple": "#470AF5",
+    "magenta": "#F50AA3"
+  }
+}
